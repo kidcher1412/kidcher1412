@@ -2,7 +2,7 @@
 - 💕 i'm falling in love with Trang Thanh Nha Uyen since 2021
 - 👀 I’m studing in SGU university
 - 🌱 I’m currently learning software enginneering
-- 💞️ you can find me on: https://bom.so/kidcher1412
+- 💞️ you can find me on: https://bom.so/Kidcher1412
 - 📫 can i study with you now?
 
 <!---
