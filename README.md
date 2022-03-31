@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kidcher1412 or Hoang Le Anh Thong
 - 👀 I’m studing in SGU university
 - 🌱 I’m currently learning software enginneering
-- 💞️ you can find me on: https://www.facebook.com/Thongpacom/
+- 💞️ you can find me on: https://bom.so/kidcher1412
 - 📫 can i study with you now?
 
 <!---
