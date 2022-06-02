@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kidcher1412 or Hoang Le Anh Thong
-- 💕 i'm alone :3
+- 💕 I got fall in love since 2022, and now, i'm loving Lê Trần Quỳnh Châu
 - 👀 I’m studing in SGU university
 - 🌱 I’m currently learning software enginneering
 - 💞️ you can find me on: https://bom.so/Kidcher1412
