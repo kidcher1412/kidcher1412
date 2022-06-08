@@ -12,11 +12,19 @@
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+
+ <div align="center">
+  <a href="https://open.spotify.com/user/314ciqp2w5d5r257anrpi6adjazy">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
 </div>
+<!--
+<div align="center">
+  <a href="https://open.spotify.com/user/314ciqp2w5d5r257anrpi6adjazy">
+    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  </a>
+</div>
+-->
 
 <!---
 kidcher1412/kidcher1412 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
