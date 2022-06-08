@@ -9,8 +9,8 @@
 - 💞️ you can find me on: https://bom.so/Kidcher1412
 - 📫 can i study with you now?
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <a href="https://github.com/kidcher1412">
+  <img  src="https://github.com/kidcher1412/snake-on-my-bio/blob/master/github-user-contribution.svg"
        alt="snake" /></a>
 
   <p align="center" dir="auto">
