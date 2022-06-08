@@ -1,6 +1,6 @@
 <h1 align="center">Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;And+Competitive+Programmer;Study+in+SGU+on+2020;DS%20|%20Algorithms%20|%20OOP%20;And%20+.%20+.%20+.%20&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;And+Competitive+Programmer;Study+in+SGU+on+2020;DS%20|%20Algorithms%20|%20OOP%20;And+.+.+.;i+love+Chou+❤️&center=true&width=500&height=50"></a>
 </p>
 - 👋 Hi, I’m @kidcher1412 or Hoang Le Anh Thong
 - 💕 I have got fall in love since 2022, and now, i'm loving Lê Trần Quỳnh Châu
