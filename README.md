@@ -8,20 +8,11 @@
 - 🌱 I’m currently learning software enginneering
 - 💞️ you can find me on: https://bom.so/Kidcher1412
 - 📫 can i study with you now?
-<div align="center">
-  <a href="https://github.com/kidcher1412">
-  <img  src="https://github.com/kidcher1412/snake-on-my-bio/blob/master/github-user-contribution.svg"
-       alt="snake" /></a>
-
   <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
 </p>
   
- <div align="center">
-  <a href="https://open.spotify.com/user/314ciqp2w5d5r257anrpi6adjazy">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+
 <!--
 <div align="center">
   <a href="https://open.spotify.com/user/314ciqp2w5d5r257anrpi6adjazy">
