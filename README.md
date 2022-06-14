@@ -10,7 +10,7 @@
   <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
   
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![center](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <!--
 <div align="center">
   <a href="https://open.spotify.com/user/314ciqp2w5d5r257anrpi6adjazy">
