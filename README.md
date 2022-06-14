@@ -9,8 +9,8 @@
 <p>- 📫 can i study with you now?</p>
   <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;"></a>
-  
-![preview](https://user-images.githubusercontent.com/100288144/173637555-f4b9002d-376a-4937-998f-835b1aa440a0.jpg)
+  <p align="center"><img src="https://user-images.githubusercontent.com/100288144/173637555-f4b9002d-376a-4937-998f-835b1aa440a0.jpg">
+<!-- ![preview](https://user-images.githubusercontent.com/100288144/173637555-f4b9002d-376a-4937-998f-835b1aa440a0.jpg) -->
 
 <!--
 <div align="center">
