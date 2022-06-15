@@ -21,10 +21,10 @@
 
       
   <span class="pl-k">def</span> <span class="pl-en">__str__</span>(<span class="pl-s1">self</span>):
-    <span class="pl-k">return</span> <span class="pl-s1">init(</span><span class="pl-s1">MyTask</span><span class="pl-s1">)</span>
+    <span class="pl-k">return</span> <span class="pl-s1">init(</span><span class="pl-s1">MyTask</span><span class="pl-s1">)</span>;
 
 <span class="pl-k">if</span> <span class="pl-s1">__name__</span> <span class="pl-c1">==</span> <span class="pl-s">'__main__'</span>:
-    <span class="pl-s1">me</span> <span class="pl-c1">=</span> <span class="pl-v">ImportantTask</span>()</pre><div class="zeroclipboard-container position-absolute right-0 top-0">
+    <span class="pl-s1">me</span> <span class="pl-c1">=</span> <span class="pl-v">ImportantTask</span>()</pre><div class="zeroclipboard-container position-absolute right-0 top-0">;
    
   <p align="center"><img src="https://user-images.githubusercontent.com/100288144/173637555-f4b9002d-376a-4937-998f-835b1aa440a0.jpg">
 <!-- ![preview](https://user-images.githubusercontent.com/100288144/173637555-f4b9002d-376a-4937-998f-835b1aa440a0.jpg) -->
