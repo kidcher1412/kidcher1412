@@ -8,7 +8,7 @@
 <p>- 💞️ you can find me on: https://bom.so/Kidcher1412</p>
 <p>- 📫 can i study with you now?</p>
   <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="https://github.com/kidcher1412/snake-on-my-bio/blob/master/github-user-contribution.svg#gh-dark-mode-only"><img src="https://github.com/kidcher1412/snake-on-my-bio/blob/master/github-user-contribution.svg#gh-dark-mode-only" alt="snake" style="max-width: 100%;" ></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;" ></a>
   
  <div class="highlight highlight-source-python notranslate position-relative overflow-auto"><pre><span class="pl-k">class</span> <span class="pl-v">ImportantTask</span>():
     
