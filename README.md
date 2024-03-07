@@ -5,7 +5,7 @@
 <p>- 💕 I have got fall in love since 2022, and now, i'm loving Lê Trần Quỳnh Châu</p>
 <p>- 👀 I’m studing in SGU university</p>
 <p>- 🌱 I’m currently learning software enginneering</p>
-<p>- 💞️ you can find me on: https://bom.so/Kidcher1412</p>
+<p>- 💞️ you can find me on: [Here](https://kidcher1412.github.io/)</p>
 <p>- 📫 can i study with you now?</p>
   <p align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer" href="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg"><img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;" ></a>
